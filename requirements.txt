@@ -1,6 +1,4 @@
-streamlit
-numpy
-matplotlib
-scikit-learn
-openai
-json
+streamlit==0.89.0
+matplotlib==3.4.3
+numpy==1.21.2
+openai==0.27.0
